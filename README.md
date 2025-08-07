@@ -3,8 +3,7 @@
 # Hi there, I'm <a href="https://t.me/lPeace_Deathl" target="_blank">Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
-### 💻 Vue.js Developer from Russia 🇷🇺 
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="Vue.js"/>
+### <img align="top" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="Vue.js"/> 💻 Vue.js Developer from Russia 🇷🇺 
 
 ✨ *Passionate about bringing ideas to life through code* ✨
 
