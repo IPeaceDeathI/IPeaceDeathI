@@ -4,6 +4,8 @@
 
 ### <img align="top" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="Vue.js"/> 💻 Vue.js Developer from Russia 🇷🇺 
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF232300&center=true&vCenter=true&width=435&lines=~+pnpm+create+vite+stunning-project" alt="Typing SVG" />
+
 ✨ *Passionate about bringing ideas to life through code* ✨
 
 </div>
