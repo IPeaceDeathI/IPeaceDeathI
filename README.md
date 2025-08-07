@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <a href="tg://resolve?domain=@lPeace_Deathl" target="_blank">Denis</a> 
+# Hi there, I'm <a href="https://t.me/lPeace_Deathl" target="_blank">Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 ### 💻 Vue.js Developer from Russia 🇷🇺 
